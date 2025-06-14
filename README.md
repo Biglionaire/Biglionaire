@@ -29,6 +29,7 @@
 </p>
 
 <!-- Socials -->
+<h2 align="center">Social</h2>
 <p align="center">
   <a href="https://twitter.com/biglionaire" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
