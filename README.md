@@ -30,17 +30,26 @@
 
 <!-- Socials -->
 <h2 align="center">Social</h2>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:30px;">
+
+  <a href="mailto:anggarasepta88@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/email_3178158.png" width="40" height="40" alt="Gmail" />
+  </a>
+
   <a href="https://twitter.com/biglionaire" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/twitter.svg" width="40" height="40" alt="Twitter" />
+    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/twitter_5969020.png" width="40" height="40" alt="X" />
   </a>
-  <a href="https://t.me/biglionaire" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
-    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/telegram.svg" width="40" height="40" alt="Telegram" />
+
+  <a href="https://t.me/biglionaire" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/telegram_2111646.png" width="40" height="40" alt="Telegram" />
   </a>
-  <a href="https://discord.gg/biglionaire1" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
-    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/discord.svg" width="40" height="40" alt="Discord" />
+
+  <a href="https://discord.gg/biglionaire1" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/discord_2626288.png" width="40" height="40" alt="Discord" />
   </a>
+
 </p>
+
 
 <!-- Neon line -->
 <p align="center">
