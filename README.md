@@ -13,13 +13,13 @@
 
 <!-- Neon line -->
 <p align="center">
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
+  <img src="https://raw.githubusercontent.com/Biglionaire/Biglionaire/951d77b61ebe7278439119ee2af28f191fb82654/assets/neon_dots_line_blue_transparent.gif" width="100%" />
 </p>
 
 <!-- Portfolio Button -->
 <p align="center">
   <a href="https://biglionaire.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2300ffcc?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%231F51FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
@@ -31,20 +31,20 @@
 <!-- Socials -->
 <h2 align="center">Social</h2>
 <p align="center">
-  <a href="https://twitter.com/biglionaire" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/biglionaire" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/twitter.svg" width="40" height="40" alt="Twitter" />
   </a>
-  <a href="https://t.me/biglionaire" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/biglionaire" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
+    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/telegram.svg" width="40" height="40" alt="Telegram" />
   </a>
-  <a href="https://discord.gg/biglionaire1" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="https://discord.gg/biglionaire1" target="_blank" rel="noopener noreferrer" style="margin-left:20px;">
+    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/discord.svg" width="40" height="40" alt="Discord" />
   </a>
 </p>
 
 <!-- Neon line -->
 <p align="center">
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
+  <img src="https://raw.githubusercontent.com/Biglionaire/Biglionaire/951d77b61ebe7278439119ee2af28f191fb82654/assets/neon_dots_line_blue_transparent.gif" width="100%" />
 </p>
 
 <!-- Skills -->
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0244.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Biglionaire/Biglionaire/951d77b61ebe7278439119ee2af28f191fb82654/assets/neon_dots_line_blue_transparent.gif" width="100%" />
 </p>
 
 <!-- Ending GIF -->
