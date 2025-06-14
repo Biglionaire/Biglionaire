@@ -8,7 +8,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&duration=2000&center=true&vCenter=true&width=600&height=50&lines=Web3+Developer;Node+Validator;Ethereum+Maxi;AI+Contributor" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%231F51FF&size=32&duration=2000&center=true&vCenter=true&width=600&height=50&lines=Web3+Developer;Node+Validator;Ethereum+Maxi;AI+Contributor" alt="Headline" />
 </div>
 
 <!-- Neon line -->
