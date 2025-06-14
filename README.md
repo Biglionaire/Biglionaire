@@ -30,8 +30,7 @@
 
 <!-- Socials -->
 <h2 align="center">Social</h2>
-<p align="center" style="display:flex; justify-content:center; gap:30px;">
-
+<p align="center">
   <a href="mailto:anggarasepta88@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/email_3178158.png" width="40" height="40" alt="Gmail" />
   </a>
@@ -45,10 +44,10 @@
   </a>
 
   <a href="https://discord.gg/biglionaire1" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/discord_2626288.png" width="40" height="40" alt="Discord" />
+    <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/discord_5968756.png" width="40" height="40" alt="Discord" />
   </a>
-
 </p>
+
 
 
 <!-- Neon line -->
