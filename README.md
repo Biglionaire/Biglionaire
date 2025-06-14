@@ -1,6 +1,6 @@
 <!-- Snake animation -->
 <p align="center">
-  <img src="https://github.com/arjuncvinod/arjuncvinod/blob/output/github-snake-dark.svg" alt="snake"/>
+  <img width="100%" src="https://github.com/arjuncvinod/arjuncvinod/blob/output/github-snake-dark.svg" alt="snake"/>
 </p>
 
 <!-- Intro with waving gif -->
@@ -73,10 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0244.gif" width="100%" />
 </p>
 
 <!-- Ending GIF -->
