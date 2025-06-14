@@ -44,7 +44,7 @@
 
 <!-- Neon line -->
 <p align="center">
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
+  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
 </p>
 
 <!-- Skills -->
@@ -73,10 +73,10 @@
 </p>
 
 <p align="center">
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
+  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
+  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
+  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
 </p>
 
 <!-- Ending GIF -->
