@@ -1,6 +1,6 @@
 <!-- Snake animation -->
 <p align="center">
-  <img width="100%" src="https://github.com/arjuncvinod/arjuncvinod/blob/output/github-snake-dark.svg" alt="snake"/>
+  <img width="100%" src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/github-snake-dark.svg" alt="snake"/>
 </p>
 
 <!-- Intro with waving gif -->
@@ -25,7 +25,7 @@
 
 <!-- Neon line -->
 <p align="center">
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" />
+  <img src="https://github.com/Biglionaire/Biglionaire/blob/main/assets/neon-line.gif" />
 </p>
 
 <!-- Socials -->
